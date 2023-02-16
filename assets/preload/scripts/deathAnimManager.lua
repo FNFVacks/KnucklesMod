@@ -19,7 +19,7 @@ function onCreatePost()
         setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx_KNUCK');
         setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver_KNUCK-pixel');
         setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd');
-    elseif not boyfriendName == 'knucks' or not boyfriendName == 'knucksNPC' or not boyfriendName == 'Tails' or boyfriendName == 'knuxPhantasm' then
+    elseif not boyfriendName == 'knucks' or not boyfriendName == 'knucksNPC' or not boyfriendName == 'Tails' or not boyfriendName == 'knuxPhantasm' then
         setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx-pixel');
         setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver-pixel');
         setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');

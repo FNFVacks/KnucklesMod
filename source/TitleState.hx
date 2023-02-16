@@ -287,12 +287,14 @@ class TitleState extends MusicBeatState
 		// bg.updateHitbox();
 		add(bg);
 
-		logoBl = new FlxSprite(titleJSON.titlex - 700, titleJSON.titley);
-		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
+		logoBl = new FlxSprite(titleJSON.titlex - 700, titleJSON.titley); //titleJSON.titlex - 700, titleJSON.titley
+		logoBl.loadGraphic(Paths.image('logoBumpin'), false);
+		logoBl.scale.set(0.55, 0.55);
+		//logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
 
 		logoBl.antialiasing = ClientPrefs.globalAntialiasing;
-		logoBl.animation.addByPrefix('bump', 'logo bumpin', 24, false);
-		logoBl.animation.play('bump');
+		//logoBl.animation.addByPrefix('bump', 'logo bumpin', 24, false);
+		//logoBl.animation.play('bump');
 		logoBl.updateHitbox();
 		// logoBl.screenCenter();
 		// logoBl.color = FlxColor.BLACK;
@@ -514,7 +516,7 @@ class TitleState extends MusicBeatState
 
 				tweenGfDance = FlxTween.tween(gfDance, { x: titleJSON.gfx - 1400 }, 1.5, { ease: FlxEase.cubeInOut, startDelay: 0.5 });
 				tweenTitleText = FlxTween.tween(titleText, { y: titleJSON.starty + 200 }, 1.5, { ease: FlxEase.cubeInOut, startDelay: 0.5 });
-				tweenLogoBl = FlxTween.tween(logoBl, { x: titleJSON.titlex + 2100 }, 1.5, { ease: FlxEase.cubeInOut, startDelay: 0.5});
+				tweenLogoBl = FlxTween.tween(logoBl, { x: titleJSON.titlex + 2100 }, 1.5, { ease: FlxEase.cubeInOut, startDelay: 0.5}); // { x: titleJSON.titlex + 2100 }
 
 
 			    FlxG.camera.zoom = 1.3;
@@ -643,7 +645,10 @@ class TitleState extends MusicBeatState
 		super.beatHit();
 
 		if(logoBl != null)
-			logoBl.animation.play('bump', true);
+			//logoBl.animation.play('bump', true);
+		      logoBl.scale.set(logoBl.scale.x * 1.05, logoBl.scale.y * 1.05);
+			  FlxTween.cancelTweensOf(logoBl, ['scale.x', 'scale.y']);
+			  FlxTween.tween(logoBl, {"scale.x": 0.55, "scale.y": 0.55}, ((60 / titleJSON.bpm) * 1000) / 2000, { ease: FlxEase.circInOut });
 
 		if(gfDance != null) {
 			danceLeft = !danceLeft;
@@ -734,7 +739,7 @@ class TitleState extends MusicBeatState
 		{
 			tweenGfDance = FlxTween.tween(gfDance, { x: titleJSON.gfx }, 1.5, { ease: FlxEase.cubeOut });
 			tweenTitleText = FlxTween.tween(titleText, { y: titleJSON.starty }, 1.5, { ease: FlxEase.cubeOut });
-			tweenLogoBl = FlxTween.tween(logoBl, { x: titleJSON.titlex}, 1.5, { ease: FlxEase.cubeOut });
+			tweenLogoBl = FlxTween.tween(logoBl, { x: titleJSON.titlex }, 1.5, { ease: FlxEase.cubeOut });
 
 			if (playJingle) //Ignore deez
 			{

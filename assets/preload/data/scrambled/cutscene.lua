@@ -123,13 +123,13 @@ elseif curBeat == 164 then
 
         setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx_KNUCK');
 	    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver_KNUCK-pixel');
-	    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd');
+	    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');
     elseif curBeat == 360 then
         setPropertyFromClass("GameOverSubstate", "characterName", "knucks")
 
         setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx_KNUCK');
 	    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver_KNUCK-pixel');
-	    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd');
+	    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');
     
     end
     end
@@ -159,7 +159,7 @@ function onMoveCamera(char)
 
 	    setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx_KNUCK');
 	    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver_KNUCK-pixel');
-	    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd');
+	    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');
 
         knuckSingings = true
     elseif char == "boyfriend" and curBeat > 190 then
@@ -192,41 +192,49 @@ end
 
 function goodNoteHit(membersIndex, noteData, noteType, isSustainNote)
     if noteType == 'GF Sing' or gfSection then
-        setPropertyFromClass("GameOverSubstate", "characterName", "knucks")
-
-	    setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx_KNUCK');
-	    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver_KNUCK-pixel');
-	    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd');
-
-        knuckSingings = true
+        if not getPropertyFromClass('GameOverSubstate', 'characterName') == 'knucks' then
+            setPropertyFromClass("GameOverSubstate", "characterName", "knucks")
+    
+            setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx_KNUCK');
+            setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver_KNUCK-pixel');
+            setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');
+    
+            knuckSingings = true
+        end
     else
-        setPropertyFromClass("GameOverSubstate", "characterName", "mewhen")
+        if not getPropertyFromClass('GameOverSubstate', 'characterName') == 'mewhen' then
+            setPropertyFromClass("GameOverSubstate", "characterName", "mewhen")
 
-        setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx-pixel');
-	    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver-pixel');
-	    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');
-
-        knuckSingings = false
+            setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx-pixel');
+            setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver-pixel');
+            setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');
+    
+            knuckSingings = false
+        end
     end
 end
 
 function noteMiss(membersIndex, noteData, noteType, isSustainNote)
     if noteType == 'GF Sing' or gfSection then
-        setPropertyFromClass("GameOverSubstate", "characterName", "knucks")
-
-	    setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx_KNUCK');
-	    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver_KNUCK-pixel');
-	    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd');
-
-        knuckSingings = true
+        if not getPropertyFromClass('GameOverSubstate', 'characterName') == 'knucks' then
+            setPropertyFromClass("GameOverSubstate", "characterName", "knucks")
+    
+            setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx_KNUCK');
+            setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver_KNUCK-pixel');
+            setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');
+    
+            knuckSingings = true
+        end
     else
-        setPropertyFromClass("GameOverSubstate", "characterName", "mewhen")
+        if not getPropertyFromClass('GameOverSubstate', 'characterName') == 'mewhen' then
+            setPropertyFromClass("GameOverSubstate", "characterName", "mewhen")
 
-        setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx-pixel');
-	    setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver-pixel');
-	    setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');
-
-        knuckSingings = false
+            setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx-pixel');
+            setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'gameOver-pixel');
+            setPropertyFromClass('GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');
+    
+            knuckSingings = false
+        end
     end
 end
 
