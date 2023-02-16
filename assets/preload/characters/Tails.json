@@ -1,0 +1,327 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "knucks idle"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "knucks down"
+		},
+		{
+			"offsets": [
+				140,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "knucks left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "knucks up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "knucks right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "a",
+			"fps": 1,
+			"name": "knucks misses",
+			"indices": []
+		},
+		{
+			"offsets": [
+				77,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [
+				3,
+				11,
+				11,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10
+			],
+			"name": "knucks misses"
+		},
+		{
+			"offsets": [
+				84,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				2,
+				9,
+				9,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8,
+				8
+			],
+			"name": "knucks misses"
+		},
+		{
+			"offsets": [
+				91,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [
+				1,
+				7,
+				7,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"name": "knucks misses"
+		},
+		{
+			"offsets": [
+				70,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [
+				0,
+				5,
+				5,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"name": "knucks misses"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 9,
+			"name": "knucks dead1",
+			"indices": [
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				2,
+				4,
+				5,
+				6,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7
+			]
+		},
+		{
+			"offsets": [
+				63,
+				0
+			],
+			"loop": true,
+			"fps": 22,
+			"anim": "deathLoop",
+			"indices": [
+				1,
+				2,
+				2,
+				0,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"name": "knucks dead2"
+		},
+		{
+			"offsets": [
+				63,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "deathConfirm",
+			"indices": [
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				2
+			],
+			"name": "knucks dead"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Tails",
+	"position": [
+		90,
+		560
+	],
+	"healthicon": "sonic-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		60,
+		255
+	],
+	"camera_position": [
+		220,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 7
+}

@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				120300,
+				[
+					[
+						"Show Message",
+						"Heh. Now that's how you knuckle up., 250, 450",
+						"FF0000, Knuckles, 2, knucklesUpSub"
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonic.png">
+<SubTexture name="knuckles down0000" x="71" y="89" width="35" height="30" frameX="-13" frameY="-17" frameWidth="46" frameHeight="45" />
+<SubTexture name="knuckles down0001" x="136" y="0" width="35" height="28" frameX="-13" frameY="-19" frameWidth="46" frameHeight="45" />
+<SubTexture name="knuckles idle0000" x="70" y="0" width="32" height="42" frameX="-5" frameY="-5" frameWidth="46" frameHeight="45" />
+<SubTexture name="knuckles idle0001" x="0" y="47" width="34" height="42" frameX="-5" frameY="-5" frameWidth="46" frameHeight="45" />
+<SubTexture name="knuckles idle0002" x="102" y="0" width="34" height="39" frameX="-5" frameY="-8" frameWidth="46" frameHeight="45" />
+<SubTexture name="knuckles left0000" x="34" y="47" width="38" height="40" frameX="-1" frameY="-7" frameWidth="46" frameHeight="45" />
+<SubTexture name="knuckles left0001" x="0" y="89" width="39" height="39" frameX="0" frameY="-8" frameWidth="46" frameHeight="45" />
+<SubTexture name="knuckles right0000" x="102" y="39" width="33" height="39" frameX="-14" frameY="-8" frameWidth="46" frameHeight="45" />
+<SubTexture name="knuckles right0001" x="39" y="89" width="32" height="39" frameX="-14" frameY="-8" frameWidth="46" frameHeight="45" />
+<SubTexture name="knuckles up0000" x="36" y="0" width="34" height="46" frameX="-13" frameY="-1" frameWidth="46" frameHeight="45" />
+<SubTexture name="knuckles up0001" x="0" y="0" width="36" height="47" frameX="-12" frameY="0" frameWidth="46" frameHeight="45" />
+</TextureAtlas>

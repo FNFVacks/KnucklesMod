@@ -1,0 +1,8 @@
+Activates cinematic.
+Value 1: How close are cinematic bars.
+Value 2: Duration of Cinematic In Steps.
+
+Do not set value 1 so high! Try this:
+
+Value 1:
+(0-360)

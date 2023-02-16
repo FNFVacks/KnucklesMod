@@ -1,0 +1,106 @@
+{
+	"song": {
+		"events": [
+			[
+				49333.3333333334,
+				[
+					[
+						"Trigger Cinematic",
+						"90",
+						"118"
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"Show Message",
+						"First a blue hedgehog and now a blue haired freak?, 140, 450",
+						"FF0000, Eggman, 2.5, eggman1"
+					],
+					[
+						"Camera Character",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				53166.6666666667,
+				[
+					[
+						"Show Message",
+						"SnooPINGAS usual I see., 375, 450",
+						"FF0000, Eggman, 2.5, eggman2"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Camera Character",
+						"boyfriend",
+						""
+					],
+					[
+						"Show Message",
+						"Pou' Yeah!, 470, 450",
+						"00FFFF, Boyfriend, 0.5, boyfriend1"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Show Message",
+						"(erectile laugh), 420, 450",
+						"FF0000, Eggman, 2, eggmansFR"
+					],
+					[
+						"Camera Character",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				59500,
+				[
+					[
+						"Show Message",
+						"Haha!, 500, 450",
+						"00FFFF, Boyfriend, 0.5, boyfriendsFINAL"
+					],
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			],
+			[
+				59666.6666666667,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			],
+			[
+				73666.6666666667,
+				[
+					[
+						"Show Message",
+						"Why must you ruin a bad thing?, 310, 450",
+						"FF0000, Eggman, 2.4, eggmanBadThing"
+					]
+				]
+			]
+		]
+	}
+}

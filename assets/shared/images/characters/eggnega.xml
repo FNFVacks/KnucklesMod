@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eggnega.png">
+<SubTexture name="idle0000" x="0" y="0" width="56" height="63" frameX="-7" frameY="-8" frameWidth="76" frameHeight="78" />
+<SubTexture name="idle0001" x="56" y="0" width="64" height="63" frameX="-4" frameY="-10" frameWidth="76" frameHeight="78" />
+<SubTexture name="idle0002" x="120" y="0" width="58" height="63" frameX="-1" frameY="-12" frameWidth="76" frameHeight="78" />
+<SubTexture name="right0000" x="0" y="63" width="56" height="63" frameX="-4" frameY="-7" frameWidth="76" frameHeight="78" />
+<SubTexture name="right0001" x="123" y="126" width="63" height="61" frameX="0" frameY="-6" frameWidth="76" frameHeight="78" />
+<SubTexture name="up0000" x="178" y="0" width="55" height="62" frameX="-12" frameY="-7" frameWidth="76" frameHeight="78" />
+<SubTexture name="up0001" x="233" y="0" width="62" height="61" frameX="-16" frameY="-6" frameWidth="76" frameHeight="78" />
+<SubTexture name="left0000" x="56" y="63" width="56" height="63" frameX="-8" frameY="-3" frameWidth="76" frameHeight="78" />
+<SubTexture name="left0001" x="0" y="126" width="60" height="62" frameX="-8" frameY="-1" frameWidth="76" frameHeight="78" />
+<SubTexture name="down0000" x="112" y="63" width="56" height="63" frameX="-7" frameY="-14" frameWidth="76" frameHeight="78" />
+<SubTexture name="down0001" x="60" y="126" width="63" height="62" frameX="-7" frameY="-18" frameWidth="76" frameHeight="78" />
+</TextureAtlas>

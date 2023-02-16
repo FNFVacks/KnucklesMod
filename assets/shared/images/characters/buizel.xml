@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="buizel.png">
+<SubTexture name="buizel lmao0000" x="96" y="34" width="36" height="33" frameX="0" frameY="-1" frameWidth="34" frameHeight="38" />
+<SubTexture name="buizel lmao0001" x="60" y="0" width="36" height="35" frameX="0" frameY="-3" frameWidth="34" frameHeight="38" />
+<SubTexture name="buizel lmao0002" x="30" y="0" width="30" height="39" frameX="-2" frameY="-1" frameWidth="34" frameHeight="38" />
+<SubTexture name="buizel lmao0003" x="96" y="0" width="36" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="38" />
+<SubTexture name="buizel lmao0004" x="0" y="40" width="36" height="35" frameX="0" frameY="-3" frameWidth="34" frameHeight="38" />
+<SubTexture name="buizel lmao0005" x="0" y="0" width="30" height="40" frameX="-2" frameY="0" frameWidth="34" frameHeight="38" />
+<SubTexture name="buizel lmao0006" x="36" y="40" width="36" height="35" frameX="0" frameY="-3" frameWidth="34" frameHeight="38" />
+</TextureAtlas>

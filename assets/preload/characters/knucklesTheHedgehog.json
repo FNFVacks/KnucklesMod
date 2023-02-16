@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				28,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0
+			],
+			"name": "knuckles up"
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "knuckles right"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "knuckles down"
+		},
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "knuckles left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "knuckles idle",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/knucklesTheHedgehog",
+	"position": [
+		170,
+		560
+	],
+	"healthicon": "knucks-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		20,
+		49
+	],
+	"camera_position": [
+		-60,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 7
+}

@@ -1,0 +1,5 @@
+Shows a message depending on what you put.
+
+Value 1: What text should say, Text X, Text Y
+Value 2: Prefix Color, Prefix Name, Time Until Text Fade,
+Tag Name

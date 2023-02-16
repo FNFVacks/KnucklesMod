@@ -1,0 +1,59 @@
+{
+	"storyName": "EMERALD ENCORE",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "emerald",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week_knuc",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"blue blur",
+			"sonic-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"newtrogic",
+			"michaelafton-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"misfit mania",
+			"maniaduet-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"eggmeralds",
+			"egg-old-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Vs Knuckles: Emerald",
+	"hiddenUntilUnlocked": false
+}

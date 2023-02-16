@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="knucksnpc.png">
+<SubTexture name="knucks idle0000" x="190" y="118" width="49" height="57" frameX="-2" frameY="-4" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks idle0001" x="103" y="121" width="48" height="59" frameX="-2" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks idle0002" x="0" y="61" width="47" height="60" frameX="-2" frameY="-1" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks right0000" x="190" y="0" width="49" height="59" frameX="0" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks right0001" x="47" y="61" width="47" height="60" frameX="-2" frameY="-1" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks up0000" x="44" y="0" width="44" height="61" frameX="-5" frameY="0" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks up0001" x="190" y="59" width="46" height="59" frameX="-4" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks down0000" x="252" y="239" width="50" height="50" frameX="-3" frameY="-11" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks down0001" x="154" y="239" width="48" height="52" frameX="-4" frameY="-9" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks left0000" x="55" y="180" width="57" height="59" frameX="-8" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks left0001" x="0" y="180" width="55" height="59" frameX="-8" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0000" x="154" y="239" width="48" height="52" frameX="-12" frameY="-9" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0001" x="0" y="180" width="55" height="59" frameX="-1" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0002" x="47" y="61" width="47" height="60" frameX="-16" frameY="-1" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0003" x="190" y="59" width="46" height="59" frameX="-14" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0004" x="106" y="239" width="48" height="52" frameX="-12" frameY="-9" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0005" x="202" y="239" width="50" height="50" frameX="-11" frameY="-11" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0006" x="135" y="0" width="55" height="59" frameX="-3" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0007" x="0" y="121" width="57" height="59" frameX="-1" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0008" x="88" y="0" width="47" height="60" frameX="-16" frameY="-1" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0009" x="135" y="59" width="49" height="59" frameX="-16" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0010" x="57" y="121" width="46" height="59" frameX="-14" frameY="-2" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks misses0011" x="0" y="0" width="44" height="61" frameX="-15" frameY="0" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead10000" x="112" y="180" width="55" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead10001" x="167" y="180" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead10002" x="239" y="0" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead10003" x="239" y="58" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead10004" x="239" y="116" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead10005" x="239" y="174" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead10006" x="292" y="0" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead10007" x="292" y="58" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead20000" x="292" y="116" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead20001" x="292" y="58" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead20002" x="53" y="239" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead0000" x="292" y="174" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead0001" x="0" y="239" width="52" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+<SubTexture name="knucks dead0002" x="239" y="58" width="53" height="58" frameX="-9" frameY="-3" frameWidth="45" frameHeight="41" />
+</TextureAtlas>

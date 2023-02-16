@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gorlfrind.png">
+<SubTexture name="gf danceright0000" x="0" y="0" width="80" height="100" frameX="-20" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="gf danceright0001" x="80" y="0" width="82" height="100" frameX="-18" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="gf danceright0002" x="162" y="0" width="81" height="100" frameX="-19" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="gf danceright0003" x="0" y="100" width="80" height="100" frameX="-20" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="gf danceleft0000" x="0" y="0" width="80" height="100" frameX="-20" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="gf danceleft0001" x="80" y="100" width="82" height="100" frameX="-18" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="gf danceleft0002" x="162" y="100" width="81" height="100" frameX="-19" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="gf danceleft0003" x="243" y="0" width="80" height="100" frameX="-20" frameY="0" frameWidth="100" frameHeight="100" />
+</TextureAtlas>

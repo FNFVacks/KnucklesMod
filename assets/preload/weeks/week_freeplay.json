@@ -1,0 +1,77 @@
+{
+	"storyName": "FREE OH YEAH SHE FREE WITH MY D",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week_emrld",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Locked On",
+			"knucks-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bonus Song",
+			"shell-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Evening Star",
+			"knucks-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Phantasm",
+			"wech-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Creatures",
+			"quilldick",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"on god",
+			"god",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Vs Knuckles: Freeplay",
+	"hiddenUntilUnlocked": false
+}

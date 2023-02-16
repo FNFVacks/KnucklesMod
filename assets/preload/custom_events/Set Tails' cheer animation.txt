@@ -1,0 +1,9 @@
+--THIS WILL ONLY WORK ON TAILS AND TAILS ONLY--
+
+Set value 1 to literally anything that isnt leaving it blank       --If you break the script by doing dumb shit with the values
+to make Tails stop cheering (make sure value 2 is empty)    --(filling both in at once) that one's on you fam i'm not
+                                                                                                   --responsible for that
+Set value 2 to "set", without the "s, to make Tails start
+cheering again (make sure value 1 is empty)
+
+example usage: just go into locked-on's chart lmfao

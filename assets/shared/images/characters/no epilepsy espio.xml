@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="no epilepsy espio.png">
+<SubTexture name="knuckles down0000" x="67" y="91" width="37" height="36" frameX="-9" frameY="-11" frameWidth="49" frameHeight="45" />
+<SubTexture name="knuckles down0001" x="140" y="0" width="37" height="33" frameX="-9" frameY="-14" frameWidth="49" frameHeight="45" />
+<SubTexture name="knuckles idle0000" x="34" y="0" width="32" height="44" frameX="-8" frameY="-3" frameWidth="49" frameHeight="45" />
+<SubTexture name="knuckles idle0001" x="66" y="0" width="33" height="44" frameX="-10" frameY="-3" frameWidth="49" frameHeight="45" />
+<SubTexture name="knuckles idle0002" x="35" y="91" width="32" height="42" frameX="-11" frameY="-5" frameWidth="49" frameHeight="45" />
+<SubTexture name="knuckles left0000" x="0" y="47" width="29" height="44" frameX="-2" frameY="-3" frameWidth="49" frameHeight="45" />
+<SubTexture name="knuckles left0001" x="99" y="44" width="30" height="43" frameX="0" frameY="-4" frameWidth="49" frameHeight="45" />
+<SubTexture name="knuckles right0000" x="29" y="47" width="39" height="44" frameX="-10" frameY="-3" frameWidth="49" frameHeight="45" />
+<SubTexture name="knuckles right0001" x="99" y="0" width="41" height="44" frameX="-10" frameY="-3" frameWidth="49" frameHeight="45" />
+<SubTexture name="knuckles up0000" x="0" y="91" width="35" height="43" frameX="-1" frameY="-4" frameWidth="49" frameHeight="45" />
+<SubTexture name="knuckles up0001" x="0" y="0" width="34" height="47" frameX="-2" frameY="0" frameWidth="49" frameHeight="45" />
+</TextureAtlas>

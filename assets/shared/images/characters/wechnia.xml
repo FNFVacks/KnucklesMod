@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wechnia.png">
+<SubTexture name="idle0000" x="56" y="51" width="33" height="48" frameX="-26" frameY="-3" frameWidth="66" frameHeight="43" />
+<SubTexture name="idle0001" x="157" y="0" width="32" height="47" frameX="-26" frameY="-4" frameWidth="66" frameHeight="43" />
+<SubTexture name="idle0002" x="189" y="47" width="34" height="46" frameX="-25" frameY="-5" frameWidth="66" frameHeight="43" />
+<SubTexture name="left0000" x="44" y="0" width="56" height="50" frameX="-1" frameY="-1" frameWidth="66" frameHeight="43" />
+<SubTexture name="left0001" x="100" y="0" width="57" height="50" frameX="0" frameY="-1" frameWidth="66" frameHeight="43" />
+<SubTexture name="right0000" x="89" y="51" width="43" height="48" frameX="-29" frameY="-3" frameWidth="66" frameHeight="43" />
+<SubTexture name="right0001" x="0" y="0" width="44" height="51" frameX="-30" frameY="0" frameWidth="66" frameHeight="43" />
+<SubTexture name="up0000" x="189" y="93" width="35" height="45" frameX="-27" frameY="-6" frameWidth="66" frameHeight="43" />
+<SubTexture name="up0001" x="0" y="101" width="36" height="48" frameX="-27" frameY="-3" frameWidth="66" frameHeight="43" />
+<SubTexture name="down0000" x="119" y="149" width="48" height="32" frameX="-17" frameY="-19" frameWidth="66" frameHeight="43" />
+<SubTexture name="down0001" x="70" y="149" width="49" height="33" frameX="-16" frameY="-18" frameWidth="66" frameHeight="43" />
+<SubTexture name="leftm0000" x="0" y="51" width="56" height="50" frameX="-1" frameY="-1" frameWidth="66" frameHeight="43" />
+<SubTexture name="leftm0001" x="36" y="101" width="56" height="48" frameX="0" frameY="-3" frameWidth="66" frameHeight="43" />
+<SubTexture name="leftm0002" x="100" y="0" width="57" height="50" frameX="0" frameY="-1" frameWidth="66" frameHeight="43" />
+<SubTexture name="rightm0000" x="92" y="101" width="43" height="48" frameX="-29" frameY="-3" frameWidth="66" frameHeight="43" />
+<SubTexture name="rightm0001" x="189" y="0" width="42" height="47" frameX="-29" frameY="-4" frameWidth="66" frameHeight="43" />
+<SubTexture name="rightm0002" x="0" y="0" width="44" height="51" frameX="-30" frameY="0" frameWidth="66" frameHeight="43" />
+<SubTexture name="upm0000" x="0" y="149" width="35" height="45" frameX="-27" frameY="-6" frameWidth="66" frameHeight="43" />
+<SubTexture name="upm0001" x="35" y="149" width="35" height="44" frameX="-27" frameY="-7" frameWidth="66" frameHeight="43" />
+<SubTexture name="upm0002" x="0" y="101" width="36" height="48" frameX="-27" frameY="-3" frameWidth="66" frameHeight="43" />
+<SubTexture name="downm0000" x="167" y="149" width="48" height="32" frameX="-17" frameY="-19" frameWidth="66" frameHeight="43" />
+<SubTexture name="downm0001" x="0" y="194" width="48" height="30" frameX="-17" frameY="-21" frameWidth="66" frameHeight="43" />
+<SubTexture name="downm0002" x="70" y="149" width="49" height="33" frameX="-16" frameY="-18" frameWidth="66" frameHeight="43" />
+</TextureAtlas>

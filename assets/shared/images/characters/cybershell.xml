@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cybershell.png">
+<SubTexture name="knuckles down0000" x="31" y="55" width="34" height="41" frameX="-21" frameY="-17" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles down0001" x="65" y="55" width="29" height="41" frameX="-28" frameY="-17" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles idle0000" x="79" y="0" width="31" height="42" frameX="-24" frameY="-16" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles idle0001" x="106" y="97" width="31" height="37" frameX="-24" frameY="-21" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles idle0002" x="139" y="37" width="30" height="26" frameX="-25" frameY="-32" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles idle0003" x="0" y="55" width="31" height="42" frameX="-24" frameY="-16" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles left0000" x="33" y="97" width="35" height="40" frameX="-15" frameY="-18" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles left0001" x="68" y="97" width="38" height="40" frameX="-13" frameY="-18" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles right0000" x="110" y="0" width="29" height="41" frameX="-32" frameY="-17" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles right0001" x="0" y="97" width="33" height="41" frameX="-37" frameY="-17" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles up0000" x="139" y="0" width="79" height="37" frameX="-1" frameY="-21" frameWidth="80" frameHeight="56" />
+<SubTexture name="knuckles up0001" x="0" y="0" width="79" height="55" frameX="-1" frameY="-3" frameWidth="80" frameHeight="56" />
+</TextureAtlas>

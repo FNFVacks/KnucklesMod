@@ -1,0 +1,11 @@
+Changes icon to new icon name
+Value 1: Which character (dad or bf), Icon name
+Value 2: hex or rgb code for health bar.
+
+e.g.:
+v1: bf, gf
+v2: rgb, 69, 69, 69
+alt v2: hex, 4a4a4a
+
+
+Event made by Rodney, not us.

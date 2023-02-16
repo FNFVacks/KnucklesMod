@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "knuckles idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "knuckles down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0
+			],
+			"name": "knuckles up"
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "knuckles left"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "knuckles right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mighty",
+	"position": [
+		140,
+		560
+	],
+	"healthicon": "might-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		10,
+		0
+	],
+	"camera_position": [
+		-100,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 7
+}

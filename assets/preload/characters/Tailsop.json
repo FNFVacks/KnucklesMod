@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "knucks idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "knucks down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "a",
+			"fps": 12,
+			"name": "knucks misses",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "knucks dead1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deadLoop",
+			"fps": 12,
+			"name": "knucks dead2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "knucks dead3"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "knucks dead2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 11,
+			"name": "knucks left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "knucks up"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "knucks right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Tails",
+	"position": [
+		90,
+		560
+	],
+	"healthicon": "sonic-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		60,
+		255
+	],
+	"camera_position": [
+		10,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 7
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goku.png">
+<SubTexture name="knuckles down0000" x="97" y="52" width="34" height="47" frameX="-17" frameY="-8" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles down0001" x="135" y="0" width="34" height="47" frameX="-17" frameY="-10" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles idle0000" x="65" y="0" width="35" height="50" frameX="-14" frameY="-7" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles idle0001" x="100" y="0" width="35" height="50" frameX="-14" frameY="-6" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles idle0002" x="0" y="52" width="35" height="50" frameX="-14" frameY="-5" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles idle0003" x="100" y="0" width="35" height="50" frameX="-14" frameY="-6" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles left0000" x="41" y="102" width="43" height="43" frameX="-2" frameY="-12" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles left0001" x="0" y="102" width="41" height="45" frameX="0" frameY="-8" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles right0000" x="0" y="0" width="33" height="52" frameX="-31" frameY="-3" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles right0001" x="33" y="0" width="32" height="52" frameX="-35" frameY="-2" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles up0000" x="66" y="52" width="31" height="49" frameX="-18" frameY="-4" frameWidth="65" frameHeight="55" />
+<SubTexture name="knuckles up0001" x="35" y="52" width="31" height="50" frameX="-18" frameY="0" frameWidth="65" frameHeight="55" />
+</TextureAtlas>

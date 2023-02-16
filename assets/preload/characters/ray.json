@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "knuckles down",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "knuckles up",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "knuckles right",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "knuckles left",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "knuckles idle",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "knuckles idle",
+			"indices": [
+				4,
+				3,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				0
+			],
+			"anim": "singUP-alt",
+			"fps": 48,
+			"name": "knuckles up bad",
+			"indices": [
+				0,
+				0,
+				0,
+				2,
+				2,
+				2,
+				2,
+				1,
+				1,
+				1,
+				1
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ray",
+	"position": [
+		170,
+		560
+	],
+	"healthicon": "maniaduet-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		215,
+		40
+	],
+	"camera_position": [
+		-60,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 7
+}

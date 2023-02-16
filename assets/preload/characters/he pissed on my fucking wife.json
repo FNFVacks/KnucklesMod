@@ -1,0 +1,302 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "0 braincells",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "when the bf is sus",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "hi",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "aaaaaaaaaaaaaaaa",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "boi",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				41
+			],
+			"anim": "deathConfirm",
+			"fps": 12,
+			"name": "bof?",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "gone"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "firstDeath",
+			"indices": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				6,
+				7,
+				8,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "sike"
+		},
+		{
+			"offsets": [
+				-120,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				2,
+				0,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"name": "delet"
+		},
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "free robux??!?!?!!?"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "bruj"
+		},
+		{
+			"offsets": [
+				20,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "dw guys hes just sleeping"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/stoopid",
+	"position": [
+		-200,
+		270
+	],
+	"healthicon": "dumbass",
+	"flip_x": true,
+	"healthbar_colors": [
+		41,
+		181,
+		201
+	],
+	"camera_position": [
+		50,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

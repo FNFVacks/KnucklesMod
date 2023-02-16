@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="knuxPhantasm.png">
+<SubTexture name="idle0000" x="59" y="91" width="29" height="43" frameX="-19" frameY="-3" frameWidth="66" frameHeight="42" />
+<SubTexture name="idle0001" x="154" y="86" width="29" height="42" frameX="-19" frameY="-4" frameWidth="66" frameHeight="42" />
+<SubTexture name="idle0002" x="125" y="91" width="29" height="40" frameX="-19" frameY="-6" frameWidth="66" frameHeight="42" />
+<SubTexture name="left0000" x="162" y="176" width="48" height="39" frameX="-3" frameY="-7" frameWidth="66" frameHeight="42" />
+<SubTexture name="left0001" x="101" y="135" width="47" height="40" frameX="-1" frameY="-6" frameWidth="66" frameHeight="42" />
+<SubTexture name="right0000" x="192" y="0" width="47" height="40" frameX="-19" frameY="-6" frameWidth="66" frameHeight="42" />
+<SubTexture name="right0001" x="0" y="176" width="48" height="40" frameX="-22" frameY="-6" frameWidth="66" frameHeight="42" />
+<SubTexture name="up0000" x="38" y="46" width="39" height="44" frameX="-20" frameY="-2" frameWidth="66" frameHeight="42" />
+<SubTexture name="up0001" x="0" y="0" width="39" height="46" frameX="-20" frameY="0" frameWidth="66" frameHeight="42" />
+<SubTexture name="down0000" x="239" y="39" width="42" height="33" frameX="-15" frameY="-13" frameWidth="66" frameHeight="42" />
+<SubTexture name="down0001" x="239" y="105" width="42" height="31" frameX="-15" frameY="-15" frameWidth="66" frameHeight="42" />
+<SubTexture name="leftm0000" x="239" y="0" width="48" height="39" frameX="-3" frameY="-7" frameWidth="66" frameHeight="42" />
+<SubTexture name="leftm0001" x="192" y="40" width="47" height="40" frameX="-1" frameY="-6" frameWidth="66" frameHeight="42" />
+<SubTexture name="leftm0002" x="101" y="135" width="47" height="40" frameX="-1" frameY="-6" frameWidth="66" frameHeight="42" />
+<SubTexture name="rightm0000" x="192" y="80" width="47" height="40" frameX="-19" frameY="-6" frameWidth="66" frameHeight="42" />
+<SubTexture name="rightm0001" x="48" y="176" width="48" height="40" frameX="-22" frameY="-6" frameWidth="66" frameHeight="42" />
+<SubTexture name="rightm0002" x="0" y="176" width="48" height="40" frameX="-22" frameY="-6" frameWidth="66" frameHeight="42" />
+<SubTexture name="upm0000" x="77" y="46" width="39" height="44" frameX="-20" frameY="-2" frameWidth="66" frameHeight="42" />
+<SubTexture name="upm0001" x="39" y="0" width="39" height="46" frameX="-20" frameY="0" frameWidth="66" frameHeight="42" />
+<SubTexture name="upm0002" x="0" y="0" width="39" height="46" frameX="-20" frameY="0" frameWidth="66" frameHeight="42" />
+<SubTexture name="downm0000" x="239" y="72" width="42" height="33" frameX="-15" frameY="-13" frameWidth="66" frameHeight="42" />
+<SubTexture name="downm0001" x="239" y="136" width="42" height="31" frameX="-15" frameY="-15" frameWidth="66" frameHeight="42" />
+<SubTexture name="downm0002" x="239" y="105" width="42" height="31" frameX="-15" frameY="-15" frameWidth="66" frameHeight="42" />
+<SubTexture name="dead10000" x="88" y="91" width="37" height="43" frameX="-5" frameY="-2" frameWidth="40" frameHeight="41" />
+<SubTexture name="dead10001" x="154" y="0" width="38" height="43" frameX="-4" frameY="-2" frameWidth="40" frameHeight="41" />
+<SubTexture name="dead10002" x="116" y="0" width="38" height="44" frameX="-4" frameY="-1" frameWidth="40" frameHeight="41" />
+<SubTexture name="dead10003" x="78" y="0" width="38" height="45" frameX="-4" frameY="0" frameWidth="40" frameHeight="41" />
+<SubTexture name="dead10004" x="0" y="46" width="38" height="45" frameX="-4" frameY="0" frameWidth="40" frameHeight="41" />
+<SubTexture name="dead10005" x="154" y="43" width="38" height="43" frameX="-6" frameY="-2" frameWidth="40" frameHeight="41" />
+<SubTexture name="dead10006" x="116" y="44" width="30" height="44" frameX="-10" frameY="-1" frameWidth="40" frameHeight="41" />
+<SubTexture name="deadloop0000" x="0" y="91" width="29" height="44" frameX="-12" frameY="-1" frameWidth="40" frameHeight="41" />
+<SubTexture name="deadloop0001" x="29" y="91" width="30" height="44" frameX="-11" frameY="-1" frameWidth="40" frameHeight="41" />
+<SubTexture name="deadloop0002" x="0" y="91" width="29" height="44" frameX="-12" frameY="-1" frameWidth="40" frameHeight="41" />
+<SubTexture name="deadloop0003" x="29" y="91" width="30" height="44" frameX="-11" frameY="-1" frameWidth="40" frameHeight="41" />
+<SubTexture name="special anim maybe0000" x="0" y="135" width="30" height="41" frameX="-12" frameY="-4" frameWidth="40" frameHeight="41" />
+<SubTexture name="special anim maybe0001" x="30" y="135" width="30" height="41" frameX="-12" frameY="-4" frameWidth="40" frameHeight="41" />
+<SubTexture name="deadenter0000" x="192" y="120" width="43" height="40" frameX="0" frameY="-5" frameWidth="40" frameHeight="41" />
+<SubTexture name="deadenter0001" x="60" y="135" width="41" height="41" frameX="-3" frameY="-4" frameWidth="40" frameHeight="41" />
+<SubTexture name="deadenter0002" x="148" y="135" width="33" height="40" frameX="-5" frameY="-5" frameWidth="40" frameHeight="41" />
+<SubTexture name="deadenter0003" x="96" y="176" width="33" height="40" frameX="-5" frameY="-5" frameWidth="40" frameHeight="41" />
+<SubTexture name="deadenter0004" x="129" y="176" width="33" height="40" frameX="-5" frameY="-5" frameWidth="40" frameHeight="41" />
+</TextureAtlas>

@@ -1,0 +1,3 @@
+Forces camera on a character.
+
+Value 1: 'boyfriend' or 'dad' (No quotation marks)

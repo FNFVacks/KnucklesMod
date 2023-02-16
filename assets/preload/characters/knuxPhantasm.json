@@ -1,0 +1,399 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				-56,
+				-7
+			],
+			"loop": true,
+			"fps": 5,
+			"anim": "deathLoop",
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"name": "deadloop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0
+			],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-7
+			],
+			"anim": "firstDeath",
+			"fps": 18,
+			"name": "dead1",
+			"indices": [
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				2,
+				0,
+				2,
+				0,
+				1,
+				0,
+				3,
+				1,
+				0,
+				2,
+				1,
+				3,
+				0,
+				0,
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"offsets": [
+				-56,
+				-7
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "deathCancel",
+			"indices": [],
+			"name": "special anim maybe"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-7
+			],
+			"anim": "deathConfirm",
+			"fps": 21,
+			"name": "deadenter",
+			"indices": [
+				0,
+				0,
+				0,
+				1,
+				0,
+				1,
+				1,
+				0,
+				1,
+				0,
+				1,
+				2,
+				1,
+				2,
+				0,
+				1,
+				0,
+				0,
+				0,
+				1,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "upm"
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "rightm"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "leftm"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "downm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/knuxPhantasm",
+	"position": [
+		90,
+		560
+	],
+	"healthicon": "knucks-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		20,
+		49
+	],
+	"camera_position": [
+		220,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 7
+}

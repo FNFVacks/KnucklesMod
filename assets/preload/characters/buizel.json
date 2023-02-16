@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "danceLeft-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				1
+			],
+			"name": "buizel lmao"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "danceRight-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				1
+			],
+			"name": "buizel lmao"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "loop",
+			"indices": [
+				0,
+				1,
+				2,
+				1
+			],
+			"name": "buizel lmao"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "dummy",
+			"indices": [
+				0,
+				1,
+				2,
+				1
+			],
+			"name": "buizel lmao"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 48,
+			"name": "buizel lmao",
+			"indices": [
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 48,
+			"name": "buizel lmao",
+			"indices": [
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/buizel",
+	"position": [
+		230,
+		410
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 7
+}

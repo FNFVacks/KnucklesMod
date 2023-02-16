@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "frfr",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/god",
+	"position": [
+		70,
+		400
+	],
+	"healthicon": "god",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		114,
+		100
+	],
+	"camera_position": [
+		120,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

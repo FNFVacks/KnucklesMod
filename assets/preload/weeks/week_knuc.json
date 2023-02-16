@@ -1,0 +1,50 @@
+{
+	"storyName": "KNOCK KNOCK ITS KNUCKLES",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "knuckles",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"angel",
+			"knucks-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"knuckle up",
+			"knucks-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"scrambled",
+			"knucks-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Vs Knuckles",
+	"hiddenUntilUnlocked": false
+}

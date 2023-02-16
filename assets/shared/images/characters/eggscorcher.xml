@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eggscorcher.png">
+<SubTexture name="knuckles down0000" x="113" y="0" width="110" height="86" frameX="-10" frameY="-9" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles down0001" x="0" y="87" width="110" height="86" frameX="-9" frameY="-11" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles idle0000" x="337" y="172" width="113" height="85" frameX="-9" frameY="-8" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles idle0001" x="110" y="87" width="111" height="86" frameX="-12" frameY="-8" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles idle0002" x="0" y="259" width="112" height="85" frameX="-14" frameY="-10" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles idle0003" x="226" y="173" width="110" height="85" frameX="-14" frameY="-9" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles idle0004" x="223" y="0" width="114" height="86" frameX="-9" frameY="-7" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles idle0005" x="0" y="173" width="117" height="86" frameX="-4" frameY="-8" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles idle0006" x="0" y="0" width="113" height="87" frameX="-7" frameY="-7" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles left0000" x="223" y="86" width="113" height="86" frameX="-3" frameY="-6" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles left0001" x="117" y="173" width="109" height="86" frameX="0" frameY="-6" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles right0000" x="337" y="0" width="114" height="86" frameX="-13" frameY="-7" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles right0001" x="112" y="259" width="114" height="85" frameX="-22" frameY="-9" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles up0000" x="337" y="86" width="112" height="86" frameX="-10" frameY="-2" frameWidth="134" frameHeight="95" />
+<SubTexture name="knuckles up0001" x="226" y="259" width="105" height="85" frameX="-14" frameY="0" frameWidth="134" frameHeight="95" />
+</TextureAtlas>

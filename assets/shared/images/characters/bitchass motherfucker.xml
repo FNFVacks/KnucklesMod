@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bitchass motherfucker.png">
+<SubTexture name="shadow the hedgehog is a bitchass motherfucker he pissed on my fucking wife0000" x="977" y="1080" width="243" height="313" frameX="-213" frameY="-317" frameWidth="646" frameHeight="598" />
+<SubTexture name="disgusting black creatures0000" x="0" y="624" width="364" height="456" frameX="-174" frameY="-174" frameWidth="646" frameHeight="598" />
+<SubTexture name="disgusting black creatures0001" x="0" y="0" width="365" height="624" frameX="-173" frameY="-6" frameWidth="646" frameHeight="598" />
+<SubTexture name="you know i had to do it to em0000" x="1220" y="1080" width="215" height="313" frameX="-255" frameY="-317" frameWidth="646" frameHeight="598" />
+<SubTexture name="you know i had to do it to em0001" x="1435" y="1080" width="215" height="192" frameX="-255" frameY="-438" frameWidth="646" frameHeight="598" />
+<SubTexture name="for his neutral special, he wields a gun0000" x="657" y="624" width="418" height="417" frameX="-151" frameY="-215" frameWidth="646" frameHeight="598" />
+<SubTexture name="for his neutral special, he wields a gun0001" x="661" y="0" width="511" height="467" frameX="-173" frameY="-166" frameWidth="646" frameHeight="598" />
+<SubTexture name="damn0000" x="307" y="1080" width="670" height="336" frameX="-8" frameY="-294" frameWidth="646" frameHeight="598" />
+<SubTexture name="damn0001" x="1172" y="0" width="562" height="408" frameX="-116" frameY="-222" frameWidth="646" frameHeight="598" />
+<SubTexture name="hedgefuck0000" x="0" y="1080" width="307" height="343" frameX="0" frameY="-145" frameWidth="269" frameHeight="448" />
+<SubTexture name="hedgefuck0001" x="364" y="624" width="293" height="455" frameX="0" frameY="-33" frameWidth="269" frameHeight="448" />
+<SubTexture name="hedgefuck0002" x="1172" y="787" width="510" height="228" frameX="270" frameY="-168" frameWidth="660" frameHeight="660" />
+<SubTexture name="hedgefuck0003" x="1172" y="408" width="384" height="379" frameX="-46" frameY="-196" frameWidth="360" frameHeight="660" />
+<SubTexture name="hedgefuck0004" x="365" y="0" width="296" height="596" frameX="5" frameY="139" frameWidth="360" frameHeight="660" />
+</TextureAtlas>

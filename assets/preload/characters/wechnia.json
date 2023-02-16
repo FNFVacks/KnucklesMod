@@ -1,0 +1,378 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-56,
+				-7
+			],
+			"anim": "deathLoop",
+			"fps": 5,
+			"name": "deadloop",
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				-56,
+				-7
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "firstDeath",
+			"indices": [
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				2,
+				0,
+				2,
+				0,
+				1,
+				0,
+				3,
+				1,
+				0,
+				2,
+				1,
+				3,
+				0,
+				0,
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"name": "dead1"
+		},
+		{
+			"offsets": [
+				-56,
+				-7
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "deathConfirm",
+			"indices": [
+				0,
+				0,
+				0,
+				1,
+				0,
+				1,
+				1,
+				0,
+				1,
+				0,
+				1,
+				2,
+				1,
+				2,
+				0,
+				1,
+				0,
+				0,
+				0,
+				1,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				3,
+				3,
+				4
+			],
+			"name": "deadenter"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "upm"
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "rightm"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "leftm"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [
+				2,
+				1,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "downm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/wechnia",
+	"position": [
+		41,
+		556
+	],
+	"healthicon": "wech-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		180,
+		189
+	],
+	"camera_position": [
+		220,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 7
+}
